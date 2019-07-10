@@ -3,6 +3,7 @@ A C++ Chop For Controlling Logitech's Light Sync Enabled Devices
 
 I've only tested it with the G560 speakers, and it works well. On other devices you may run into issues while trying to change the color of different zone's lighting. Raise an issue if you need support for another device.
 
+Currently, keyboards are not supported. At least not per-key lighting.
 
 version 1.0 - 
 - The chop has two pages, one for settings a solid color for all zones, and another for settings the color for seperate zones.
