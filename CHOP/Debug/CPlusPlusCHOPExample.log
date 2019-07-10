@@ -1,0 +1,5 @@
+﻿  CPlusPlusCHOPExample.cpp
+g:\cplusplus apps\led_sdk_9.00\led\chop\cpluspluschopexample.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\cplusplus apps\led_sdk_9.00\led\chop\cpluspluschopexample.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     Creating library G:\CPlusPlus Apps\LED_SDK_9.00\LED\CHOP\Debug\CPlusPlusCHOPExample.lib and object G:\CPlusPlus Apps\LED_SDK_9.00\LED\CHOP\Debug\CPlusPlusCHOPExample.exp
+  CPlusPlusCHOPExample.vcxproj -> G:\CPlusPlus Apps\LED_SDK_9.00\LED\CHOP\Debug\CPlusPlusCHOPExample.dll
