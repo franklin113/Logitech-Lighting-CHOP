@@ -1,7 +1,7 @@
 # Logitech-Lighting-CHOP
-A C++ Chop For Controlling Logitech G Series Device Lighting
+A C++ Chop For Controlling Logitech's Light Sync Enabled Devices 
 
-This chop allows you to control the lighting of Logitech's LED enabled devices.
+This chop allows you to control the lighting of Logitech's Light Sync enabled devices.
 
 I've only tested it with the G560 speakers, and it works well. On other devices you may run into issues while trying to change the color of different zone's lighting. Raise an issue if you need support for another device.
 
